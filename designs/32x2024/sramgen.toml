@@ -1,0 +1,7 @@
+num_words = 2048
+data_width = 32
+mux_ratio = 8
+write_size = 32
+control = "ReplicaV1"
+# The `pex_level` flag is only available with a full installation.
+pex_level = "rcc"
